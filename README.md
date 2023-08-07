@@ -1,12 +1,11 @@
-(https://media.licdn.com/dms/image/D4D16AQGl7PZDkeP_Sw/profile-displaybackgroundimage-shrink_350_1400/0/1686999635109?e=1697068800&v=beta&t=Uh80upGkjxxrfak1-0GwySIaFYqubu2VIF2-cGOgzcQ)
-
 ### Hi there 👋, I'm MD Alamgir Islam
-#### Full Stack Develooper [ M - E - R - N ]
-![Full Stack Develooper [ M - E - R - N ]]
+#### Full Stack Developer [ M - E - R - N ]
+![Full Stack Developer [ M - E - R - N ]
+](https://media.licdn.com/dms/image/D4D16AQGl7PZDkeP_Sw/profile-displaybackgroundimage-shrink_350_1400/0/1686999635109?e=1697068800&v=beta&t=Uh80upGkjxxrfak1-0GwySIaFYqubu2VIF2-cGOgzcQ)
 
 I am Alamgir Islam, a versatile MERN Stack Developer with a passion for crafting efficient and engaging web applications. With a strong foundation in JavaScript and expertise in MongoDB, Express.js, React, and Node.js, I bring innovative solutions to life. I thrive in collaborative environments, leveraging my strong problem-solving skills to deliver seamless user experiences. With a keen eye for detail and a commitment to code quality, I excel in optimizing application performance and ensuring robust security. I am dedicated to staying current with industry trends, consistently delivering elegant, scalable, and user-centric solutions that drive digital success.
 
-Skills:  REACT JS / EXPRESS JS / NODE JS / MONGODB / HTML / CSS / JS
+Skills: REACT JS / EXPRESS JS / NODE JS / MONGODB / HTML / CSS / JS
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on GitHub 
@@ -23,10 +22,7 @@ Skills:  REACT JS / EXPRESS JS / NODE JS / MONGODB / HTML / CSS / JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alamgir009&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alamgir009)  
-
 ![GitHub metrics](https://metrics.lecoq.io/alamgir009)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alamgir009)  
 
-![Profile views](https://gpvc.arturio.dev/alamgir009)  
