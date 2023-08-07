@@ -7,6 +7,8 @@ I am Alamgir Islam, a versatile MERN Stack Developer with a passion for crafting
 
 Skills: REACT JS / EXPRESS JS / NODE JS / MONGODB / HTML / CSS / JS
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alamgir009&label=Profile%20views&color=0e75b6&style=flat" alt="alamgir009" /> </p>
+
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me: linkedin.com/in/md-alamgir-islam-8b08b41a3 
