@@ -1,9 +1,8 @@
 ![Cover photo](https://media.licdn.com/dms/image/D4D16AQGl7PZDkeP_Sw/profile-displaybackgroundimage-shrink_350_1400/0/1686999635698?e=1713398400&v=beta&t=8_vZXaRtTnlFLFPQbYP8R71L-Eg_GV7hlvwGoUvFNhE)
 
-### Hi there 👋, I'm MD Alamgir Islam
+### Hi there 👋, I'm __MD Alamgir Islam__
 #### Full Stack Developer [ M - E - R - N ]
 <br/>
-
 I'm Alamgir Islam, a versatile MERN Stack Developer with a passion for crafting efficient and engaging web applications. With a strong foundation in JavaScript and expertise in MongoDB, Express.js, React, and Node.js, I bring innovative solutions to life. I thrive in collaborative environments, leveraging my strong problem-solving skills to deliver seamless user experiences. With a keen eye for detail and a commitment to code quality, I excel in optimizing application performance and ensuring robust security. I am dedicated to staying current with industry trends, consistently delivering elegant, scalable, and user-centric solutions that drive digital success.Let's build something amazing together!
 ---
 Skills: REACT JS / EXPRESS JS / NODE JS / MONGODB / HTML / CSS / JS / PYTHON / BOOT STRAP
