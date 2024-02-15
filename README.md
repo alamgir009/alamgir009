@@ -33,7 +33,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alamgir009&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/alamgir009)  
+![](https://metrics.lecoq.io/alamgir009)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=alamgir009)  
 
