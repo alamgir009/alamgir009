@@ -2,10 +2,9 @@
 
 ### Hi there 👋, I'm __MD Alamgir Islam__
 #### Full Stack Developer [ M - E - R - N ]
-<br/>
+---
 I'm Alamgir Islam, a versatile MERN Stack Developer with a passion for crafting efficient and engaging web applications. With a strong foundation in JavaScript and expertise in MongoDB, Express.js, React, and Node.js, I bring innovative solutions to life. I thrive in collaborative environments, leveraging my strong problem-solving skills to deliver seamless user experiences. With a keen eye for detail and a commitment to code quality, I excel in optimizing application performance and ensuring robust security. I am dedicated to staying current with industry trends, consistently delivering elegant, scalable, and user-centric solutions that drive digital success.Let's build something amazing together!
 ---
-
 Skills: REACT JS / EXPRESS JS / NODE JS / MONGODB / HTML / CSS / JS / PYTHON / BOOT STRAP
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
