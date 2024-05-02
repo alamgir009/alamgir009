@@ -1,4 +1,4 @@
-![Cover photo]("C:\Users\Alamgir Islam\Downloads\Mern.jpg")
+![Cover photo]("C:/Users/Alamgir Islam/Downloads/Mern.jpg")
 
 ### Hi there 👋, I'm _MD Alamgir Islam_
 #### Full Stack Developer [ M - E - R - N ]
