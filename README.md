@@ -1,4 +1,4 @@
-![Cover photo](https://media.licdn.com/dms/image/D4D16AQGl7PZDkeP_Sw/profile-displaybackgroundimage-shrink_350_1400/0/1686999635698?e=1713398400&v=beta&t=8_vZXaRtTnlFLFPQbYP8R71L-Eg_GV7hlvwGoUvFNhE)
+![Cover photo]("C:\Users\Alamgir Islam\Downloads\Mern.jpg")
 
 ### Hi there 👋, I'm _MD Alamgir Islam_
 #### Full Stack Developer [ M - E - R - N ]
