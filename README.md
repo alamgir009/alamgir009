@@ -1,4 +1,4 @@
-![Cover Photo]("https://wallpaperaccess.com/full/8901671.jpg")
+![Cover Photo](https://wallpaperaccess.com/full/8901671.jpg)
 
 ### Hi there 👋, I'm _MD Alamgir Islam_
 #### Full Stack Developer [ M - E - R - N ]
